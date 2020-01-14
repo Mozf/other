@@ -6,7 +6,7 @@
 
 ## ID不是开发者的
 
-![1](.\picture\1.png)
+![1](./picture/1.png)
 
 如图发现appID不一致，可以到以下文件`<path>\project.config.json`中，找到
 
